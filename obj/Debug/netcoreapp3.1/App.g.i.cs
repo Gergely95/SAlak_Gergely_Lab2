@@ -30,7 +30,7 @@ using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Shell;
-using Vadean_Flaviu_Lab2;
+using Salak_Gergely_Lab2;
 
 
 namespace Salak_Gergely_Lab2 {
